@@ -1,0 +1,7 @@
+money=350
+atk=3
+hp=120
+price1=50
+price2=100
+price3=30
+animal=
